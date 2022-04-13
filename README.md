@@ -1,4 +1,4 @@
-### Welcome to my blog
+## Welcome to my blog
 
 You can find some of the projects I'm working on below.
 
