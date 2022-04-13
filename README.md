@@ -1,6 +1,6 @@
-## Welcome to Leoco
+## Welcome to my blog
 
-You can find some of the projects we're working on below.
+You can find some of the projects I'm working on below.
 
 ### Australia travel blog
 
