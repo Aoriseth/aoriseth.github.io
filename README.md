@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Leoco
 
-You can use the [editor on GitHub](https://github.com/Aoriseth/aoriseth.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can find some of the projects we're working on below.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Australia travel blog
 
-### Markdown
+Read about our visit to Australia [here](/australia-travel-blog).
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
